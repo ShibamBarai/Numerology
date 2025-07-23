@@ -1,4 +1,4 @@
-### 🌟 **Nakshatra Explained **
+### 🌟 **Nakshatra Explained**
 
 | Nakshatra             | Sign(Emoji) | Symbolize                                        |
 | --------------------- | ----- | ---------------------------------------------------------------- |
